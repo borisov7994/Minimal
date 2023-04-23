@@ -64,7 +64,7 @@ color: #404040;
     text-decoration: none;
 }
 .what {
-    background-image: url("/img/IMAGE.png");
+    background-image: url("img/IMAGE.png");
     height: 391px;
     background-position: center;
     background-size: cover;
